@@ -1,0 +1,28 @@
+body{
+    background-color: #a9147b;
+}
+
+table{
+    color: white;
+    margin-top: 5%;
+    background-color: black;
+    border-radius: 30px;
+    
+
+}
+input{
+    background-color: white;
+    padding: 7px;
+}
+
+#btn{
+    background-color: green;
+    color: white;
+    height: 35px;
+    width: 100px;
+    border-radius: 25px;
+}
+
+h3{
+    color: red;
+}
